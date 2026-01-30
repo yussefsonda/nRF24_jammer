@@ -1,5 +1,5 @@
 {
-    "idf.currentSetup": "C:\\Users\\Yussef Sonda\\esp\\.espressif\\v5.5.2\\esp-idf",
+    "idf.currentSetup": "D:/Espressif/frameworks/esp-idf-v4.4.6/",
     "idf.portWin": "COM1",
     "idf.openOcdConfigs": [
         "interface/ftdi/esp32_devkitj_v1.cfg",
